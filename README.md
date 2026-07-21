@@ -45,3 +45,13 @@ assets/
 - [ ] 加入 offline 支援
 - [ ] 加入調整字體大小功能
 - [ ] 加入藥物劑量計算機
+
+
+# 連結你的遠端倉庫 (請將網址換成你自己的)
+git remote add origin https://github.com/b101108063-ops/anesthesia_app
+
+# 將預設分支重新命名為 main
+git branch -M main
+
+# 推送程式碼到 GitHub
+git push -u origin main
