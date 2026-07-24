@@ -26,7 +26,6 @@ jobs:
         with:
           flutter-version: '3.24.0'
           channel: 'stable'
-          web-browser-sdk-chromium: true
 
       - name: Install dependencies
         run: flutter pub get
