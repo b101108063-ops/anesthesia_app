@@ -20,7 +20,7 @@ class AnaesthesiaApp extends StatelessWidget {
           elevation: 0,
           centerTitle: true,
         ),
-        cardTheme: CardThemeData(
+        cardTheme: CardTheme(
           color: const Color(0xFF1A1A1A),
           elevation: 2,
           shape: RoundedRectangleBorder(
